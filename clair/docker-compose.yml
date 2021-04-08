@@ -9,7 +9,7 @@ services:
     - type: bind
       source: ./config.yaml 
       target: /config/config.yaml
-    restart: always #on-failure
+    restart: on-failure
     depends_on: 
     - clairdb 
     command: -config=/config/config.yaml
