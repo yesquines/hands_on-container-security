@@ -1,0 +1,6 @@
+[submodule "lua-ms"]
+	path = lua-ms
+	url = https://github.com/hector-vido/lua-ms
+[submodule "lua-lapis"]
+	path = lua-lapis
+	url = https://github.com/hector-vido/lua-lapis
