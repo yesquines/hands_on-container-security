@@ -23,3 +23,5 @@
 3. [Clair: Identificando Vulnerabilidades](clair.md)
 4. [Podman x Docker, Who Wins?](podman.md) 
 
+> Ambiente para o Laboratório: https://labs.play-with-docker.com/
+
