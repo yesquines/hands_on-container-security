@@ -20,6 +20,6 @@
 
 1. [Conceito: Há contêiner seguro?](conceito.md)
 2. [Boas Práticas de Segurança para Ambientes Conteinerizados](owasp_container-security.md)
-3. [Scan de Vulnerabilidades](clair.md)
+3. [Clair: Identificando Vulnerabilidades](clair.md)
 4. [Podman x Docker, Who Wins?](podman.md) 
 
