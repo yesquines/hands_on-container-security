@@ -14,14 +14,14 @@
   - CKA
   - DevOps Essentials
 
-> Linkedin: http://linkedin.com/yago.esquines
+> Linkedin: [http://linkedin.com/yago.esquines](http://linkedin.com/yago.esquines)
 
 ## Objetivos da Aula
 
-1. [Conceito: Há contêiner seguro?](conceito.md)
-2. [Boas Práticas de Segurança para Ambientes Conteinerizados](owasp_container-security.md)
-3. [Clair: Identificando Vulnerabilidades](clair.md)
-4. [Podman x Docker, Who Wins?](podman.md) 
+1. Conceito: Há contêiner seguro?
+2. Boas Práticas de Segurança para Ambientes Conteinerizados
+3. Análise de Segurança com Clair e Docker Bench for Security
+4. Podman x Docker, Who Wins?
 
-> Ambiente para o Laboratório: https://labs.play-with-docker.com/
+> Ambiente para o Laboratório: [https://labs.play-with-docker.com/](https://labs.play-with-docker.com/)
 
